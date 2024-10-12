@@ -29,7 +29,17 @@ app.use(cors());
 //const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
 
 
-const uri = "mongodb+srv://lakshinpathak:nirma123@cluster0.gl8xaey.mongodb.net/?retryWrites=true&w=majority";
+const uri = "mongodb+srv://shreyanahta17:B7jBhJcjrBjvXc0n@cluster0.rc5yt.mongodb.net/?retryWrites=true&w=majority"
+
+//below link is working
+//const uri = "mongodb+srv://lakshinpathak:nirma123@cluster0.gl8xaey.mongodb.net/?retryWrites=true&w=majority";
+
+
+
+
+
+
+
 //mongodb+srv://lakshinpathak2003:<password>@cluster0.53mqvik.mongodb.net/
 
 
