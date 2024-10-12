@@ -10,7 +10,10 @@ const app = express();
 // Connection URL for your MongoDB database
 //const url = "mongodb+srv://lakshin2563:nirma123@cluster0.qtmkizi.mongodb.net/?retryWrites=true&w=majority";
 
-const url = "mongodb+srv://lakshinpathak:nirma123@cluster0.gl8xaey.mongodb.net/?retryWrites=true&w=majority";
+
+const url = "mongodb+srv://shreyanahta17:B7jBhJcjrBjvXc0n@cluster0.rc5yt.mongodb.net/?retryWrites=true&w=majority"
+//below link is working
+//const url = "mongodb+srv://lakshinpathak:nirma123@cluster0.gl8xaey.mongodb.net/?retryWrites=true&w=majority";
 
 // Name of the database
 const dbName = 'test'; // Change this to your database name
